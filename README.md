@@ -2,10 +2,12 @@
 ### I'm Aditya.
 Wellcome to my GitHub profile.
 
-- 🌱 I’m currently learning some new skills
-- ⚡ Intrestad in App devlopment
+- 🌱 Currently learning some new skills
+- ⚡ Intrestad in Application devlopment
 - JAVA devloper 
+- Pronouns: he/him
 - How to reach me, Email at a291512ad@gmail.com
+
 
 
 
