@@ -7,11 +7,11 @@ Wellcome to my GitHub profile.
 
 A passionate mathematics student exploring fields of Mathematics and Science.
 
-> ### 🎓 Current Focus 🔬
-> I am currently pursuing my **M.Sc. in Mathematics**, with my research centered on a project in **Spectral Graph Theory**.
-> My work involves investigating the unique characteristics and challenges presented by **Cospectral Graphs**.
-> It has potential to slove few of core problems in The Graph Theory.
-> There is wide range of applications in many mathamatics and other Science fields.
+>> ### 🎓 Current Focus 🔬
+>> I am currently pursuing my **M.Sc. in Mathematics**, with my research centered on a project in **Spectral Graph Theory**.
+>> My work involves investigating the unique characteristics and challenges presented by **Cospectral Graphs**.
+>> It has potential to slove few of core problems in The Graph Theory.
+>> There is wide range of applications in many mathamatics and other Science fields.
 
 ---
 
