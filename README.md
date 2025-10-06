@@ -28,7 +28,29 @@ A passionate mathematics student exploring the connections between graph theory,
 * **Pronouns**: he/him
 
 
+# Aditya | M.Sc. Mathematics Student & Researcher
 
+A passionate mathematics student exploring the connections between graph theory, analysis, and programming.
+
+> ### 🎓 Current Focus 🔬
+> I am currently pursuing my **M.Sc. in Mathematics**, with my research centered on a project in **Spectral Graph Theory**. My work involves investigating the unique characteristics and challenges presented by **Cospectral Graphs**.
+
+---
+
+### 💻 My Tech Stack & Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+
+---
+
+### 📫 Let's Connect!
+
+* **Email**: [a291512ad@gmail.com](mailto:a291512ad@gmail.com)
+* **Profiles**: [linktr.ee/aditya_15](https://linktr.ee/aditya_15)
+* **Pronouns**: he/him
 
 
 ### Hi there👋
