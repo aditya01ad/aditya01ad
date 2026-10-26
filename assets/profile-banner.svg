@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Chauhan — Mathematics, Computation and Optimization</title>
+  <desc id="desc">A midnight-blue banner with Aditya Chauhan's name on the left and a spectral graph-inspired network on the right.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101a30"/>
+      <stop offset="62%" stop-color="#14243d"/>
+      <stop offset="100%" stop-color="#0c1326"/>
+    </linearGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#77ded0"/>
+      <stop offset="100%" stop-color="#a8a7fa"/>
+    </linearGradient>
+    <pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#fff" opacity=".09"/>
+    </pattern>
+    <clipPath id="round"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <path d="M0 0H1200" stroke="url(#arc)" stroke-width="5"/>
+    <path d="M755 -60Q845 150 1205 85" fill="none" stroke="#62b4c1" stroke-width="1.4" opacity=".22"/>
+    <path d="M720 315Q910 105 1240 235" fill="none" stroke="#aaaff9" stroke-width="1.4" opacity=".18"/>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="66" y="94" fill="#87dcd2" font-size="16" font-weight="700" letter-spacing="5">HELLO, WORLD.</text>
+      <text x="62" y="166" fill="#f5f8ff" font-size="61" font-weight="750" letter-spacing="-1.2">Aditya Chauhan</text>
+      <rect x="66" y="187" width="78" height="4" rx="2" fill="#79ded0"/>
+      <text x="66" y="225" fill="#d7e5f7" font-size="19" letter-spacing="2">MATHEMATICS  /  COMPUTATION  /  OPTIMIZATION</text>
+      <text x="66" y="260" fill="#9eacc5" font-size="16">Curiosity, rigor and useful insight.</text>
+    </g>
+    <g stroke="#91c6e1" stroke-width="2" opacity=".68" fill="none">
+      <path d="M865 62L977 54L1098 99L1137 198L1022 247L898 201L820 128Z"/>
+      <path d="M865 62L1022 247M977 54L898 201M1098 99L820 128M865 62L1098 99M820 128L1022 247M898 201L1137 198M977 54L1137 198"/>
+    </g>
+    <g fill="#14243d" stroke="#83dfd2" stroke-width="3">
+      <circle cx="865" cy="62" r="8"/><circle cx="977" cy="54" r="8"/>
+      <circle cx="1098" cy="99" r="8"/><circle cx="1137" cy="198" r="8"/>
+      <circle cx="1022" cy="247" r="8"/><circle cx="898" cy="201" r="8"/>
+      <circle cx="820" cy="128" r="8"/>
+    </g>
+    <circle cx="977" cy="54" r="3.5" fill="#f1c782"/>
+    <circle cx="1022" cy="247" r="3.5" fill="#f1c782"/>
+    <g font-family="Georgia, serif" font-style="italic" fill="#b6c2eb" opacity=".75">
+      <text x="1016" y="165" font-size="24">λ</text>
+      <text x="791" y="80" font-size="19">G</text>
+      <text x="1117" y="75" font-size="20">∇</text>
+    </g>
+  </g>
+</svg>
