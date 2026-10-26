@@ -57,7 +57,7 @@ These are complementary interests, not separate identities: mathematical structu
 ### Research & education
 
 **M.Sc. Mathematics — Indian Institute of Technology Bhubaneswar**  
-2024–2026 · CGPA **8.52/10**
+2024–2026 · CGPA **8.38/10**
 
 **Thesis:** *Spectral Determination of Graphs with Pendant Attachments*  
 **Supervisor:** Prof. Sasmita Barik
